@@ -23,7 +23,7 @@ The annotation listing and navigation behavior is consistent across all supporte
 Before running this example, ensure you have the following:
 
 - Visual Studio with Xamarin support  
-- A Xamarin.Forms application setup  
+- A Xamarin.Forms application  
 - Syncfusion® PDF Viewer for Xamarin configured in the project  
 
 ## How It Works
@@ -33,7 +33,7 @@ The example follows these steps:
 - A PDF document is loaded into the Syncfusion PDF Viewer  
 - Annotations present in the document are retrieved programmatically  
 - The retrieved annotations are displayed in a list view  
-- Selecting an annotation navigates the viewer to the corresponding position in the PDF  
+- Selecting an annotation navigates the viewer to the corresponding location in the PDF  
 
 ## Use Cases
 
@@ -47,4 +47,4 @@ This example is useful for scenarios such as:
 
 This sample provides a practical way to improve annotation visibility and navigation in Xamarin applications. By combining an annotation list view with the Syncfusion® PDF Viewer, users can easily access and navigate annotated content, resulting in a smoother and more efficient document review experience.
 
-For more details, refer to the official Syncfusion https://help.syncfusion.com/document-processing/pdf/pdf-viewer/xamarin/overview and https://help.syncfusion.com/cr/xamarin/Syncfusion.SfPdfViewer.XForms.html.
+For more details, refer to the official Syncfusion [documentation](https://help.syncfusion.com/document-processing/pdf/pdf-viewer/xamarin/overview) and [API reference](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfPdfViewer.XForms.html).
